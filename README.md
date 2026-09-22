@@ -84,11 +84,10 @@ Some hash algorithms may require optional dependencies.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/ashirali84/Decode-Dead.git
 cd decode-dead
 ```
 
-Replace `<YOUR_REPOSITORY_URL>` with your repository URL.
 
 ### 2. Create a virtual environment
 
